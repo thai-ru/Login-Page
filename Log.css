@@ -1,0 +1,33 @@
+.background{
+    background-image: url(farm2.jpg);
+    border: 1px solid royalblue;
+    
+}
+
+.transbox{
+    background-color: aquamarine;
+    opacity: 0.9;
+    border: 1px solid blanchedalmond;
+}
+
+#form{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace ,Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: inherit;
+    color:rgb(0, 0, 0) ;
+    align-self:center;
+}
+
+button{
+    margin-top: 15px;
+    padding: 4px;
+}
+
+#link{
+    text-align: end;
+}
+
+footer{
+    text-align: start;
+}
